@@ -7,7 +7,7 @@ setup(
     description="FOR TEST!!!",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/my_library",  # Ссылка на проект
+    url="https://github.com/admin-iga/IgaProTest",  # Ссылка на проект
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

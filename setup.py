@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="IgaProTest",
-    version="0.1.0",
+    version="0.2.0",
     author="IGA-PRO (admin-iga)",
     description="FOR TEST!!!",
     long_description=open("README.md").read(),
